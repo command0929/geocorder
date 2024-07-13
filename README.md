@@ -1,4 +1,4 @@
-openstreetmap : https://www.openstreetmap.org/search?query=
+openstreetmap : https://www.openstreetmap.org/search?query=   https://nominatim.org/release-docs/develop/api/Search/
 
 bing : https://www.msn.com/ko-kr/weather/forecast/in-대한민국,서울
 
