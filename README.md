@@ -1,0 +1,7 @@
+openstreetmap : https://www.openstreetmap.org/search?query=
+
+bing : https://www.msn.com/ko-kr/weather/forecast/in-대한민국,서울
+
+[ X ] Google : https://maps.googleapis.com/maps/api/geocode/json?key=YOUR_API_KEY&place_id=ChIJA3CU42aifDURaq-3csGXvuc
+
+Here : https://www.here.com/docs/bundle/geocoder-api-developer-guide/page/topics/quick-start-geocode.html
