@@ -9,3 +9,5 @@ Here : https://www.here.com/docs/bundle/geocoder-api-developer-guide/page/topics
 IP :
   - https://ipinfo.io/ip
   - https://ipinfo.io/widget/demo/ {IP}
+
+locationIQ : https://my.locationiq.com/dashboard#playground
